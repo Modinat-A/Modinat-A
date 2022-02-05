@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Modinat-A
 - 👀 I’m interested in Machine learning and Data science
-- 🌱 I’m currently learning ML ops with Ai Saturdays
+- 🌱 I’m currently pursuing a master's degree in artificial intelligence
 - 📫 How to reach me afolabianimashaun@yahoo.co.uk 
 
 <!---
