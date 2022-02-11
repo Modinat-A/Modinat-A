@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Modinat-A
+- 👋 Hi, I’m Fola
 - 👀 I’m interested in Machine learning and Data science
-- 🌱 I’m currently pursuing a master's degree in artificial intelligence
+- 👩‍🎓 I’m currently pursuing a master's degree in artificial intelligence
 - 📫 How to reach me afolabianimashaun@yahoo.co.uk 
 
 <!---
